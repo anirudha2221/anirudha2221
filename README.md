@@ -1,3 +1,8 @@
+<head>
+  <style>
+    h1{font-align:center;font-family:timesnewroman;text-align:center;}
+  </style>
+</head>
 <h1 align="center">Hi 👋, I'm anirudha</h1>
 <h3 align="center">a novice trying my best to be a programmer</h3>
 
