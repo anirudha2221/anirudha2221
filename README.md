@@ -3,7 +3,7 @@
   
 </head>
   <body>
-<h1 align="center";font-colr:white>Hi 👋, I'm anirudha</h1>
+<h1 align="center";font-color:white>Hi 👋, I'm anirudha</h1>
 <h3 align="center">a novice trying my best to be a programmer</h3>
 
 - ⚡ Fun fact **i think i am really bad in coding**
